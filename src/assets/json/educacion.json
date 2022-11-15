@@ -1,0 +1,23 @@
+[
+  {
+    "lugar": "Escuela Nº435 - Juan Bautista Alberdi",
+    "titulo": "Nivel primario",
+    "periodo": "1987 - 1993",
+    "logo": "esc-435.jpg",
+    "logoAlt": "Logo Escuela Nº435"
+  },
+  {
+    "lugar": "Liceo Militar General Belgrano",
+    "titulo": "Nivel secundario",
+    "periodo": "1994 - 1998",
+    "logo": "logo-lmgb.png",
+    "logoAlt": "Logo LMGB"
+  },
+  {
+    "lugar": "Universidad Nacional del Litoral",
+    "titulo": "Lic. en Diseño de la Com. Visual",
+    "periodo": "1999 - 2012",
+    "logo": "logo-unl.png",
+    "logoAlt": "Logo UNL"
+  }
+]

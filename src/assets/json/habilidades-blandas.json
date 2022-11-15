@@ -1,0 +1,19 @@
+[
+  {
+    "nombre": "Creatividad",
+		"categoria": "Blandas",
+    "porcentaje": 75
+  },
+  {
+    "nombre": "Organización",
+		"categoria": "Blandas",
+    "porcentaje": 85
+  },
+  {
+    "nombre": "Comunicación",
+		"categoria": "Blandas",
+    "porcentaje": 85
+  }
+]
+
+
